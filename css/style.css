@@ -1,0 +1,71 @@
+body{
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.header-site{
+    color: white;
+    padding: 10px 15px;
+    opacity: 80%;
+
+}
+
+
+.title-site{
+  float: left;
+  font-weight: 600;
+  font size: 14px
+}
+
+
+.nav-ico{
+  float: right;
+  font-weight: 600;
+  font size: 14px
+
+}
+
+.clear{
+  clear: both;
+}
+
+.section1{
+  display:inline-block;
+   height: 100%;
+   width: 100%;
+  background-color: white;
+  margin: auto;
+padding-top: 8px;
+padding-bottom: 10px;
+
+
+}
+
+
+.caleta1{
+    margin-top: 100px;
+  	margin-bottom: 100px;
+    width: 50%;
+    height: 50%;
+    color: green;
+    line-height: 3;
+    text-align: center;
+    float: left;
+    background-color: black;
+
+}
+
+.caleta2{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 50%;
+  height: 50%auto;
+  color: green;
+  line-height: 3;
+  text-align: center;
+  float: right;
+  background-color: white;
+
+}
